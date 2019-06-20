@@ -1,0 +1,22 @@
+﻿AGENDA
+OO way of doing games
+  What is OOP https://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html
+Problems
+  hierarchy https://cdn-images-1.medium.com/max/1200/1*3WiglKcEifrjV-WSQP-eCA.png
+  cache https://youtu.be/0_Byw9UMn9g?t=349
+  memory structure https://youtu.be/0_Byw9UMn9g?t=485
+Entity Component System
+  oop -> ect http://blog.lmorchard.com/wp-content/uploads/2013/11/2013-11-27-10.14.50.jpg
+  ecs flow https://cdn-images-1.medium.com/max/1200/1*yoLxDyQoFzC0je_oHkcppw.png
+Benefits
+  concurrency
+  performance https://youtu.be/0_Byw9UMn9g?t=590
+  flexibility
+
+
+Demo
+- aggro system
+- life/energy system
+- death system
+- fight system
+- spawn system
