@@ -38,14 +38,14 @@ namespace EcsTest
 
 		private static void AddMonsters(World world)
 		{
-			world.CreateEntity(new MapObject { X = 3, Y = 7, Char = 'g' }, new Movable(), new Components.Brain(), new Profession(Role.Warrior), new Components.Life() { HP = 10 });
+			world.CreateEntity(new MapObject { X = 3, Y = 7, Char = 'g' }, new Movable(), new Components.Brain(), new Profession(Role.Warrior)/*, new Components.Life() { HP = 10 }*/);
 			world.CreateEntity(new MapObject { X = 6, Y = 7, Char = 'l' }, new Movable(), new Components.Brain(), new Components.Life() { HP = 5 });
 
 		}
 
 		private static void CreatePlayer(World world)
 		{
-			world.CreateEntity(new Player(), new MapObject { X = 2, Y = 4, Char = '@' }, new Movable(), new Profession(Role.Priest), new Components.Life() { HP = 20 } );
+			world.CreateEntity(new Player(), new MapObject { X = 2, Y = 4, Char = '@' }, new Movable(), new Profession(Role.Priest)/*, new Components.Life() { HP = 20 } */);
 		}
 
 		private static void BuildRooms(World world)

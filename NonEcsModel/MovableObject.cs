@@ -13,19 +13,4 @@ namespace NonEcsModel
 			// Collision?
 		}
 	}
-	public interface IMoveable
-	{
-		void MoveTo(int x, int y);
-	}
-
-	public class MoveableComponent
-	{
-
-		public void MoveTo(int x, int y)
-		{
-			//X = x;
-			//Y = y;
-			// Collision?
-		}
-	}
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NonEcsModel
 {
-	public class Monster : Character
+	public class Goblin : Character
 	{
 	}
 }

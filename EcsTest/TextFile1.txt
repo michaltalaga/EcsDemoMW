@@ -1,4 +1,5 @@
 ﻿AGENDA
+  broken cursor: https://i0.wp.com/www.istartedsomething.com/wp-content/uploads/2009/08/win7_cursor.gif?zoom=2.5&resize=196%2C196
 OO way of doing games
   What is OOP https://www.webopedia.com/TERM/O/object_oriented_programming_OOP.html
 Problems

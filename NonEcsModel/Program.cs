@@ -8,7 +8,7 @@ namespace NonEcsModel
 	{
 		static void Main(string[] args)
 		{
-			
+
 		}
 	}
 }

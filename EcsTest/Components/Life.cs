@@ -4,8 +4,8 @@ using System.Text;
 
 namespace EcsTest.Components
 {
-	public class Life : IComponent
-	{
-		public int HP { get; set; }
-	}
+    public class Life : IComponent
+    {
+        public int HP { get; set; }
+    }
 }
